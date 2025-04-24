@@ -427,7 +427,7 @@ githubContainer.appendChild(githubLabel);
 
 
 
-const githubUrl2 = document.createElement('a');
+const githubUrl1 = document.createElement('a');
 githubUrl2.textContent = 'Syxfer';
 githubUrl2.href = 'https://github.com/syxfer';
 githubUrl2.target = '_blank';
